@@ -1,4 +1,4 @@
-# A sample Gemfile
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem "docsplit"
+# Specify your gem's dependencies in send-to-kindle-jp.gemspec
+gemspec

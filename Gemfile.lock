@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    send-to-kindle-jp (0.1.0)
+    send_to_kindle_jp (0.0.1)
 
 GEM
   remote: https://rubygems.org/
@@ -14,7 +14,7 @@ PLATFORMS
 DEPENDENCIES
   bundler (~> 1.11)
   rake (~> 10.0)
-  send-to-kindle-jp!
+  send_to_kindle_jp!
 
 BUNDLED WITH
    1.11.2
